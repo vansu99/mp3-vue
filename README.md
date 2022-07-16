@@ -1,14 +1,5 @@
 # [ZingMP3](http://ec2-52-221-214-168.ap-southeast-1.compute.amazonaws.com)
 
-## Screenshots
-![Home](./screenshots/home.png "Home page")
-![Album](./screenshots/album.png "Album page")
-![Lyric](./screenshots/lyric.png "Lyric page")
-![Karaoke](./screenshots/karaoke.png "Karaoke page")
-![Theme modal](./screenshots/theme.png "Them modal")
-![Home dark](./screenshots/home-dark.png "Home dark")
-![Idol theme](./screenshots/lisa.png "Idol theme")
-
 ## Features
 - Play song like a music player...
 - Shuffle list
